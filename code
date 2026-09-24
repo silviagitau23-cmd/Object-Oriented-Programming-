@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "Student Name: Saruni Kim" << endl;
+    cout << "Student Reg No: CS-4832/2013" << endl;
+    cout << "Course: Computer Science" << endl;
+    cout << "Year of Study: 4th Year" << endl;
+    cout << "Favourite Slogan: Never Give Up!" << endl;
+
+    return 0;
+}
